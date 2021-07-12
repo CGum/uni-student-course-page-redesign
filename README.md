@@ -17,7 +17,7 @@ When I run the code with all files and data included the following is what it lo
 
 The downloadable HTML I have on here will not have the functionality to add and remove courses because of the missing information I will take out of my code.
 
-The following image shows the redesigned version of the course addédrop page.
+The following image shows the redesigned version of the course add/drop page.
 
 ![p4](https://user-images.githubusercontent.com/35476666/125224386-600ca780-e282-11eb-8830-a17a1a88a128.PNG)
 
