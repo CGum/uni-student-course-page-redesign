@@ -11,9 +11,8 @@ I have deleted some information for privacy purposes but the highlighted areas i
 When I run the code with all files and data included the following is what it looks like.
 
 ![P2](https://user-images.githubusercontent.com/35476666/125224336-4b301400-e282-11eb-974a-b530026514b3.PNG)
-![p3](https://user-images.githubusercontent.com/35476666/125224354-52efb880-e282-11eb-8cb9-7ea35c5d4b00.PNG)
 
-The downloadable HTML I have on here will not have the functionality to add and remove courses because of the missing information I will take out of my code.
+![p3](https://user-images.githubusercontent.com/35476666/125224354-52efb880-e282-11eb-8cb9-7ea35c5d4b00.PNG)
 
 The following image shows the redesigned version of the course add/drop page.
 
