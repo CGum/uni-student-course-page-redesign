@@ -21,7 +21,7 @@ The following image shows the redesigned version of the course addédrop page.
 
 ![p4](https://user-images.githubusercontent.com/35476666/125224386-600ca780-e282-11eb-8830-a17a1a88a128.PNG)
 
-Each class is an expandable section where once clicked on will reveal all the information about it including the main class, labs and tutorials if there are any. Once the user clicks on a select radio button, the weekly schedule updates in real time. 
+Each class is an expandable section where once clicked on will reveal all the information about it including the main class, labs and tutorials if there are any. Once the user clicks on a select radio button then hits add, the weekly schedule updates in real time. 
 
 ![p5](https://user-images.githubusercontent.com/35476666/125224384-5f741100-e282-11eb-9676-e82f9b26178a.PNG)
 
