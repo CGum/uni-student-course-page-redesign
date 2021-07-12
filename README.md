@@ -1,6 +1,6 @@
-This project was done to redesign the add/drop courses page of the UNBC website. Some of the code itself contains information about UNBC courses which is not available publicly so I will be removing those pieces from my code, which makes the program not runnable. I will still put rest of the code on here for viewing though. 
+This project was done to redesign the add/drop courses page of the UNBC website. Some of the code itself contains information about UNBC courses which is not available publicly so I will be removing those pieces from my code, which makes the website not function like it should. I will still put rest of the code on here for viewing though. 
 
-Just by downloading the HTML, CSS and JavaScript files you will be able to see how the website looks. Again the add/remove buttons will not function because I took out the information related to UNBC classes.
+Just by downloading the images, HTML, CSS and JavaScript files you will be able to see how the website looks. Again the add/remove buttons will not function because I took out the information related to UNBC classes.
 
 The current style is very oldschool and lacks many useful functionalities. It is a pain to navigate through and this project fixes all the issues it has. 
 
